@@ -9,7 +9,7 @@ export default function Projects() {
       details: 'XGBoost와 로지스틱 회귀를 이용해 고객 이탈 예측 정확도 87% 달성',
       tech: ['Python', 'Scikit-learn', 'XGBoost', 'Pandas'],
       impact: '마케팅 부서의 타겟팅 정확도 35% 향상',
-      github: '#',
+      github: 'https://github.com/todaycodes/',
       demo: '#'
     },
     {
@@ -18,7 +18,7 @@ export default function Projects() {
       details: '연간 판매 추이, 지역별 성과, 제품별 매출 분석을 종합적으로 시각화',
       tech: ['SQL', 'Tableau', 'Python', 'Excel'],
       impact: '의사결정 시간 40% 단축',
-      github: '#',
+      github: 'https://github.com/todaycodes/',
       demo: '#'
     },
     {
@@ -27,7 +27,7 @@ export default function Projects() {
       details: 'ARIMA와 LSTM을 결합한 하이브리드 모델로 예측 정확도 84% 달성',
       tech: ['Python', 'TensorFlow', 'LSTM', 'Statsmodels'],
       impact: '투자 의사결정 신뢰도 향상',
-      github: '#',
+      github: 'https://github.com/todaycodes/',
       demo: '#'
     },
     {
@@ -36,7 +36,7 @@ export default function Projects() {
       details: '사용자 행동 데이터를 기반으로 개인화된 제품 추천',
       tech: ['Python', 'Scikit-learn', 'Surprise', 'SQL'],
       impact: '사용자 구매 전환율 28% 증가',
-      github: '#',
+      github: 'https://github.com/todaycodes/',
       demo: '#'
     },
     {
@@ -45,7 +45,7 @@ export default function Projects() {
       details: 'BERT와 Transformers를 활용한 다국어 감정 분석 모델',
       tech: ['Python', 'NLP', 'BERT', 'PyTorch'],
       impact: '고객 피드백 분석 자동화',
-      github: '#',
+      github: 'https://github.com/todaycodes/',
       demo: '#'
     },
     {
@@ -54,7 +54,7 @@ export default function Projects() {
       details: '비지도 학습(Isolation Forest)을 활용한 실시간 이상 탐지',
       tech: ['Python', 'Scikit-learn', 'NumPy', 'AWS'],
       impact: '보안 위협 조기 감지율 92%',
-      github: '#',
+      github: 'https://github.com/todaycodes/',
       demo: '#'
     }
   ]

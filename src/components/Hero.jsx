@@ -42,7 +42,7 @@ export default function Hero() {
             </div>
 
             <div className="flex justify-center gap-6 text-3xl">
-              <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="hover:scale-110 transition bg-white bg-opacity-20 p-3 rounded-full hover:bg-opacity-30">
+              <a href="https://github.com/todaycodes/" target="_blank" rel="noopener noreferrer" className="hover:scale-110 transition bg-white bg-opacity-20 p-3 rounded-full hover:bg-opacity-30">
                 <FiGithub />
               </a>
               <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="hover:scale-110 transition bg-white bg-opacity-20 p-3 rounded-full hover:bg-opacity-30">

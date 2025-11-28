@@ -27,7 +27,7 @@ export default function Footer() {
           <div>
             <h4 className="font-semibold mb-4">소셜</h4>
             <ul className="space-y-2 text-gray-400">
-              <li><a href="https://github.com" target="_blank" rel="noopener noreferrer" className="hover:text-white transition">GitHub</a></li>
+              <li><a href="https://github.com/todaycodes/" target="_blank" rel="noopener noreferrer" className="hover:text-white transition">GitHub</a></li>
               <li><a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="hover:text-white transition">LinkedIn</a></li>
               <li><a href="https://kaggle.com" target="_blank" rel="noopener noreferrer" className="hover:text-white transition">Kaggle</a></li>
             </ul>

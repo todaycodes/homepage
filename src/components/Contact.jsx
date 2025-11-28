@@ -60,7 +60,7 @@ export default function Contact() {
             <div className="pt-4">
               <h4 className="font-semibold text-secondary mb-4">소셜 미디어</h4>
               <div className="flex gap-4">
-                <a href="https://github.com" target="_blank" rel="noopener noreferrer" 
+                <a href="https://github.com/todaycodes/" target="_blank" rel="noopener noreferrer" 
                    className="w-12 h-12 bg-primary text-white rounded-full flex items-center justify-center hover:bg-blue-700 transition">
                   GitHub
                 </a>
