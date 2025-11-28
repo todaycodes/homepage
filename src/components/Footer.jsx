@@ -34,8 +34,11 @@ export default function Footer() {
           </div>
         </div>
 
-        <div className="border-t border-gray-700 pt-8 text-center text-gray-400">
-          <p>© {currentYear} Data Scientist Portfolio. All rights reserved.</p>
+        <div className="border-t border-gray-700 pt-8">
+          <p className="text-center text-gray-400 mb-4">© {currentYear} Data Scientist Portfolio. All rights reserved.</p>
+          <p className="text-center text-red-500 font-semibold text-lg">
+            ⚠️ 이 사이트는 포트폴리오 웹사이트 예시로 제작된 샘플 사이트입니다.
+          </p>
         </div>
       </div>
     </footer>
